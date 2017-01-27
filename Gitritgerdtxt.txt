@@ -7,3 +7,4 @@ T.d stafræn gögn eru gögn sem er geymd á einhverju sem hægt er að nálgast án þes
 
 Gagnasafnskerfi hinsvegar eru kerfi með velbúnaði og hugbúnaði til þess að skilgreina gagnasögn eða búa þau til, hafa eftirlit með þeð, stjórna og nota þau. Í kerfinu sjálfu seturi inn færslur sem eru gögninn eða upplýsingarnar sjálfar t.d þegar þú ert að setja inn færslur um bækur á bókasafni þá myndi hver færsla vera nafn bókar, höfundur, tegund bókar, útgöfuár og um hvað bókinn er.
 
+Allt það saman myndi vera hægt að kalla skrá. Skráarsnið hinsvegar er hverning upplýsingarnar eða skráinn sjálf eru geymd og lesinn á tölvum og serverum, í hverji færlsu samt í skráni eru gildi t.d á já.is þá ertu með upplýsingar um einhvern einstakling þar sem þú sérð hvað hann heitir, hvað símanúmerið hans er, hvað hann á heima og oft viðhvað hann vinnur, hver einasti af þessum dálkum myndu vera kölluð gildi
