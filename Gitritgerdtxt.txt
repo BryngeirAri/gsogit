@@ -5,3 +5,5 @@ Gagnasafn er í einföldu orði staður til þess að geyma gögn eða upplýsingar, mism
 Síðan eru til mismunandi tegundir af gögnum og hverning þau eru geymd.
 T.d stafræn gögn eru gögn sem er geymd á einhverju sem hægt er að nálgast án þess að vera á netinu, eins og á geisladisk, í bók eða hörðum disk meðan rafræn gögn eru á netinu eins og t.d öll gögninn á youtube eru rafræn meðan öll gögn á bókasafn eru stafræn.
 
+Gagnasafnskerfi hinsvegar eru kerfi með velbúnaði og hugbúnaði til þess að skilgreina gagnasögn eða búa þau til, hafa eftirlit með þeð, stjórna og nota þau. Í kerfinu sjálfu seturi inn færslur sem eru gögninn eða upplýsingarnar sjálfar t.d þegar þú ert að setja inn færslur um bækur á bókasafni þá myndi hver færsla vera nafn bókar, höfundur, tegund bókar, útgöfuár og um hvað bókinn er.
+
