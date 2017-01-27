@@ -2,3 +2,6 @@ Hvað er gagnasafn og fyrir hvað er það notað? Ég ætla mér að reyna mitt besta ti
 
 Gagnasafn er í einföldu orði staður til þess að geyma gögn eða upplýsingar, mismunandi gagnasöfn geyma mismunandi gögn eða upplýsingar, t.d mbl geymir fréttir um ýsma hluti, facebook geymir uppýsingar um þig og hvað þú ert að skoða, íslendingabók geymir upplýsingar um hver þú ert, netflix og youtube geymir sjónvarpsefni og videó, bókasafn er til dæmis gömul tegund af gagnasafni.
 
+Síðan eru til mismunandi tegundir af gögnum og hverning þau eru geymd.
+T.d stafræn gögn eru gögn sem er geymd á einhverju sem hægt er að nálgast án þess að vera á netinu, eins og á geisladisk, í bók eða hörðum disk meðan rafræn gögn eru á netinu eins og t.d öll gögninn á youtube eru rafræn meðan öll gögn á bókasafn eru stafræn.
+
